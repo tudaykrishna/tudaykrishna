@@ -146,7 +146,11 @@ class UdayKrishna:
 
 ## 📜 Certifications
 
-`GH-300 — GitHub Copilot Certification` &nbsp;·&nbsp; `Developing Large Language Models` &nbsp;·&nbsp; `PyTorch for Deep Learning Bootcamp`
+<p align="center">
+  <img src="https://img.shields.io/badge/GH--300%20GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GH-300 GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Developing%20Large%20Language%20Models-A277FF?style=for-the-badge&logo=openai&logoColor=white" alt="Developing Large Language Models" />
+  <img src="https://img.shields.io/badge/PyTorch%20for%20Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch for Deep Learning Bootcamp" />
+</p>
 
 ---
 
