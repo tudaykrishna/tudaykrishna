@@ -75,6 +75,7 @@ class UdayKrishna:
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFCA28?style=for-the-badge&logo=chromadb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
 
@@ -92,12 +93,12 @@ class UdayKrishna:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tudaykrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudaykrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tudaykrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudaykrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudaykrishna&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=tudaykrishna&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
