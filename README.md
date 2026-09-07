@@ -15,9 +15,6 @@
   <a href="mailto:tallapalliudaykrishna@gmail.com">
     <img src="https://img.shields.io/badge/Email-A277FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/tudaykrishna/tudaykrishna/raw/main/Tallapalli_Uday_Krishna_Resume.pdf">
-    <img src="https://img.shields.io/badge/Résumé-1F2937?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=tudaykrishna&style=for-the-badge&color=A277FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
