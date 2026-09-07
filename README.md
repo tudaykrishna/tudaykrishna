@@ -130,12 +130,12 @@ class UdayKrishna:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tudaykrishna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=A277FF&text_color=9CA3AF&icon_color=A277FF" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudaykrishna&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=A277FF&text_color=9CA3AF" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tudaykrishna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=A277FF&text_color=E6EDF3&icon_color=A277FF" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudaykrishna&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=A277FF&text_color=E6EDF3" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tudaykrishna&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=A277FF&currStreakLabel=A277FF&sideLabels=9CA3AF&dates=6B7280" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=tudaykrishna&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=A277FF&currStreakLabel=A277FF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=9CA3AF" alt="streak" />
 </p>
 
 <p align="center">
